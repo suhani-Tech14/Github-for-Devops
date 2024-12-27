@@ -1,0 +1,15 @@
+git status
+clear
+git add
+clear 
+git status
+git commit -m "added testing files"
+clear
+git status
+rm testing.c++
+ls
+clear
+git status
+git restore testing.c++
+clear
+git status
