@@ -13,3 +13,12 @@ git status
 git restore testing.c++
 clear
 git status
+
+git remote add origin https://github.com/suhani-Tech14/notepad-frontend.git
+git remote -v
+git status
+
+git remote set-url origin https://github.com/suhani-Tech14/notepad-frontend.git
+cleargit remote -v
+git push origin main
+clear
